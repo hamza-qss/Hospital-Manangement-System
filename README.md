@@ -1,5 +1,5 @@
 # Hospital-Manangement-System
-A basic Hospital management system written in C++.
+An Advance Hospital management system written in C++.
 Hospital Management System (C++)
 A robust, console-based application designed to streamline hospital operations. This system manages patient records, doctor schedules, and appointment billing using Object-Oriented Programming (OOP) principles in C++.
 
